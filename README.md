@@ -1,7 +1,7 @@
 <h1>Benvenuto nel mio GitHub 💻</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/tuo-username?style=social)
-![GitHub stars](https://img.shields.io/github/stars/tuo-username?style=social)
+![GitHub followers](https://img.shields.io/github/followers/violix96?style=social)
+![GitHub stars](https://img.shields.io/github/stars/violix96?style=social)
 
 <h3>Sono Vincenzo Viola!</h3>
 
