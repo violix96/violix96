@@ -5,7 +5,7 @@
 
 <h3>Sono Vincenzo Viola!</h3>
 
-<p>💻 Sono uno sviluppatore web Full-Stack con un forte senso del dettaglio e una mentalità orientata alla risoluzione di problemi complessi. Mi dedico a fornire soluzioni robuste e scalabili, puntando sempre a migliorare l'interazione e l'esperienza degli utenti. Lavoro con entusiasmo in team e sono sempre aperto a nuove sfide e occasioni di crescita professionale.</p> <p>🔥 Ho una grande passione per Vue.js e Laravel.</p>
+<p>💻 Sono un giovane sviluppatore web Full-Stack con un forte senso del dettaglio e una mentalità orientata alla risoluzione dei problemi. Mi impegno a fornire soluzioni robuste e scalabili, sempre cercando di migliorare l'interazione e l'esperienza degli utenti. Lavoro con entusiasmo in team e sono aperto a nuove sfide e opportunità di crescita professionale.</p> <p>🔥 Ho una grande passione per Vue.js e Laravel e sono entusiasta di ampliare le mie competenze nel settore.</p>
 
 <h1 align="center">Competenze Tecniche</h1>
 
