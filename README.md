@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1>Benvenuto nel mio GitHub 💻</h1>
 
-<!--
-**violix96/violix96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/tuo-username?style=social)
+![GitHub stars](https://img.shields.io/github/stars/tuo-username?style=social)
 
-Here are some ideas to get you started:
+<h3>Sono Vincenzo Viola!</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>💻 Sono uno sviluppatore web Full-Stack con un forte senso del dettaglio e una mentalità orientata alla risoluzione di problemi complessi. Mi dedico a fornire soluzioni robuste e scalabili, puntando sempre a migliorare l'interazione e l'esperienza degli utenti. Lavoro con entusiasmo in team e sono sempre aperto a nuove sfide e occasioni di crescita professionale.</p> <p>🔥 Ho una grande passione per Vue.js e Laravel.</p>
+
+<h1 align="center">Competenze Tecniche</h1>
+
+<!-- <h3 align="left">Attualmente sto imparando</h3>
+
+[![Le mie Competenze](https://skillicons.dev/icons?i=react)](https://react.dev/) -->
+
+<h3>Tecnologie Front-end</h3>
+
+[![Le mie Competenze](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/)
+[![Le mie Competenze](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
+[![Le mie Competenze](https://skillicons.dev/icons?i=js)](https://www.w3schools.com/js/)
+[![Le mie Competenze](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![Le mie Competenze](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
+[![Le mie Competenze](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![Le mie Competenze](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
+
+<h3>Tecnologie Back-end</h3>
+
+[![Le mie Competenze](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+[![Le mie Competenze](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![Le mie Competenze](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![Le mie Competenze](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
+[![Le mie Competenze](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/)
+
+<h3>Strumenti</h3>
+
+[![Le mie Competenze](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![Le mie Competenze](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Le mie Competenze](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+
+<h1 align="center">Contatti</h1>
+
+[![Le mie Competenze](https://skillicons.dev/icons?i=gmail)](mailto:vincy1621@gmail.com)
+[![Le mie Competenze](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vincenzo-viola-2b3271a7/)
